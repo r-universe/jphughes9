@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "swCRTdesign"]
 	path = swCRTdesign
-	url = https://github.com/cran/swCRTdesign
+	url = https://github.com/jphughes9/swcrtdesign
